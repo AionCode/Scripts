@@ -12,3 +12,5 @@
 * piskel.sh: Launches a program for drawing sprites (piskel).
 * shot.sh: Takes a screenshot, scrot needs to be installed.
 * git.sh: Faster to commit.
+
+![Alt text](/img/bash.png?raw=true "bash")
