@@ -9,7 +9,8 @@
 * git_update_repos.sh: It iteratively updates several git repositories for a user.
 * git_status_repos.sh: It iteratively finds the status of several git repositories for a user. 
 * rstudio_server_install.sh: Installs RStudio Server in an Azure HDI cluster.
-* piskel.sh: Launches a program for drawing sprites (piskel).
+* piskel.sh: Launches Piskel.
+* piskel_app: Launches Piskel on MAC.
 * shot.sh: Takes a screenshot, scrot needs to be installed.
 * git.sh: Faster to commit.
 

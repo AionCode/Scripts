@@ -1,7 +1,7 @@
 #!/bin/bash
 
-cd Applications
-./Piskel & 
+cd /Applications
+open -a piskel.app & 
 echo "
  * * * * * * * * * * * * * * * * * 
  *				 * 
